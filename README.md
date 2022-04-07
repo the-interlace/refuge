@@ -1,5 +1,6 @@
 # Refuge
-Data, scripts, and overviews related to homelessness, housing and related social services.  Part of the NSF Open Knowledge Network spring sprint.
+Data, scripts, and overviews related to homelessness, housing and related social services.  Part of the NSF Open Knowledge Network spring sprint.  
+Please add any scraping or extraction scripts you are using, and any extracted datasets, to this repository.
 
 ## Data sources
 HUD Data exchange: https://www.hudexchange.info/programs/hdx/pit-hic/   
