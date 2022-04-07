@@ -5,7 +5,15 @@ Please add any scraping or extraction scripts you are using, and any extracted d
 ## Data sources
 HUD Data exchange: https://www.hudexchange.info/programs/hdx/pit-hic/   
 EH: https://endhomelessness.org/resources/?fwp_content_filter=data-and-graphics   
+SAMHSA: https://www.samhsa.gov/data/  
 PDFs: https://docs.google.com/document/d/16c7rla8mI7uxZ70Ani6HEAk5Eqv7mMfcpAsIbtkWqy4/edit  
+Other [organizations](https://en.wikipedia.org/wiki/List_of_homelessness_organizations): 
+
+## Related software scripts and tools
+Green River / Open Path: 
+* https://www.openpath.host/, [hmis-warehouse](https://github.com/greenriver/hmis-warehouse), [Boston CAS](https://github.com/greenriver/boston-cas)
+Other:
+* 
 
 ## Knowledge graph
 _Entities_: shelters, other housing providers; food pantries; clinics; social service providers; data sources;  
