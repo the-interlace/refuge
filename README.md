@@ -2,6 +2,9 @@
 Data, scripts, and overviews related to homelessness, housing and related social services.  Part of the NSF Open Knowledge Network spring sprint.
 
 ## Data sources
+HUD Data exchange: https://www.hudexchange.info/programs/hdx/pit-hic/   
+EH: https://endhomelessness.org/resources/?fwp_content_filter=data-and-graphics   
+PDFs: https://docs.google.com/document/d/16c7rla8mI7uxZ70Ani6HEAk5Eqv7mMfcpAsIbtkWqy4/edit  
 
 ## Knowledge graph
 _Entities_: shelters, other housing providers; food pantries; clinics; social service providers; data sources;  
